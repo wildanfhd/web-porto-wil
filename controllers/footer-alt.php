@@ -20,10 +20,10 @@
         <div class="widget">
             <h3>Home</h3>
             <ul class="list-unstyled float-left links">
-            <li><a href="#">Homepage</a></li>
-            <li><a href="#">About Me</a></li>
-            <li><a href="#">Projects</a></li>
-            <li><a href="#">Tools</a></li>
+            <li><a href="../index.php">Homepage</a></li>
+            <li><a href="../user/about.php">About Me</a></li>
+            <li><a href="../user/projects.php">Projects</a></li>
+            <li><a href="../user/tools.php">Tools</a></li>
             </ul>
         </div> <!-- /.widget -->
         </div> <!-- /.col-lg-3 -->
@@ -32,9 +32,9 @@
         <div class="widget">
             <h3>Projects</h3>
             <ul class="list-unstyled float-left links">
-            <li><a href="#">Bookshelf API</a></li>
-            <li><a href="#">Notes API</a></li>
-            <li><a href="#">Vending Machine App</a></li>
+            <li><a href="https://github.com/wildanfhd/new-bookshelf-api">Bookshelf API</a></li>
+            <li><a href="https://github.com/wildanfhd/Pemrograman-Web">Redesign UPJ Web</a></li>
+            <li><a href="https://github.com/wildanfhd/Vending-Machine">Vending Machine App</a></li>
             </ul>
         </div> <!-- /.widget -->
         </div> <!-- /.col-lg-3 -->
@@ -43,9 +43,9 @@
         <div class="widget">
             <h3>Tools</h3>
             <ul class="list-unstyled float-left links">
-            <li><a href="#">Code Editor</a></li>
-            <li><a href="#">Programming Language</a></li>
-            <li><a href="#">Framework</a></li>
+            <li><a href="https://code.visualstudio.com/">Code Editor</a></li>
+            <li><a href="https://devmountain.com/blog/a-list-of-programming-languages-every-programmer-should-know-or-at-least-know-about/">Programming Language</a></li>
+            <li><a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/">Framework</a></li>
             </ul>
         </div> <!-- /.widget -->
         </div> <!-- /.col-lg-3 -->
